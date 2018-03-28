@@ -1759,7 +1759,6 @@ pre .javascript .function {
   font-size: 14px;
   color: #999;
 }
-# 头像旋转事件,
 .site-author-image:hover {
   background-color: #55dae1;
   webkit-transform: rotate(360deg) scale(1.1);
@@ -1839,7 +1838,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff5ed1;
+  background: #da547a;
 }
 .links-of-blogroll {
   font-size: 13px;
